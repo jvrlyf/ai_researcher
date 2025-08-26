@@ -2,3 +2,7 @@ requests
 langchain
 langchain_huggingface
 PyMuPDF
+langchain_google_genai
+langgraph.checkpoint.sqlite
+fastapi
+uvicorn

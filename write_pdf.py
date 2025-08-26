@@ -48,3 +48,5 @@ def render_latex_pdf(latex_content: str) -> str:
     except Exception as e:
         print(f"Error rendering LaTeX:{str(e)}")
         raise
+    
+    return str(final_pdf)
